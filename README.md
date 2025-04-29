@@ -3,3 +3,6 @@ Manage SSH Jails for isolated users. This is a kind of ssh "bridge" between your
 
 
 ## this script is under imporvement
+
+
+###toDo: ufw auto manage, allow scp. 
